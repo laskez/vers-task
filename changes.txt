@@ -7,3 +7,4 @@ version 1.2.0 - update added
 version 1.2.0 - more updates
 version 1.2.1 - hotfix applied
 version - more fixes
+version 1.2.2 - hotfix added
